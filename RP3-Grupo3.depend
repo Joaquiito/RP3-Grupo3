@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1668133970 source:c:\users\joako\desktop\ing en informatica - facultad\materias - 2do año\2do cuatrimestre\estructura de datos y algoritmos\practicos\practicos de maquina\rp3-grupo3\main.c
+	<stdio.h>
+	<ctype.h>
+	"RAL.h"
+
+1668134324 c:\users\joako\desktop\ing en informatica - facultad\materias - 2do año\2do cuatrimestre\estructura de datos y algoritmos\practicos\practicos de maquina\rp3-grupo3\ral.h
+	"RS.h"
+
+1668134324 c:\users\joako\desktop\ing en informatica - facultad\materias - 2do año\2do cuatrimestre\estructura de datos y algoritmos\practicos\practicos de maquina\rp3-grupo3\rs.h
+	"LV.h"
+
+1668133753 c:\users\joako\desktop\ing en informatica - facultad\materias - 2do año\2do cuatrimestre\estructura de datos y algoritmos\practicos\practicos de maquina\rp3-grupo3\lv.h
+	"ABB.h"
+
+1668133754 c:\users\joako\desktop\ing en informatica - facultad\materias - 2do año\2do cuatrimestre\estructura de datos y algoritmos\practicos\practicos de maquina\rp3-grupo3\abb.h
+	"LSOB.h"
+
+1668133914 c:\users\joako\desktop\ing en informatica - facultad\materias - 2do año\2do cuatrimestre\estructura de datos y algoritmos\practicos\practicos de maquina\rp3-grupo3\lsob.h
+	"LSO.h"
+
+1668134324 c:\users\joako\desktop\ing en informatica - facultad\materias - 2do año\2do cuatrimestre\estructura de datos y algoritmos\practicos\practicos de maquina\rp3-grupo3\lso.h
+	"Vendedor.h"
+
+1668133852 c:\users\joako\desktop\ing en informatica - facultad\materias - 2do año\2do cuatrimestre\estructura de datos y algoritmos\practicos\practicos de maquina\rp3-grupo3\vendedor.h
+	<malloc.h>
+	<string.h>
+
